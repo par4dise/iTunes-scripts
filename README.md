@@ -1,5 +1,6 @@
 # iTunes-scripts
-Some useful and free scripts for iTunes
+Some useful and free scripts for iTunes:
+* Google a song (for video, lyrics, ...)
 
 ## Install
 Copy the .scptd file into your /Library/iTunes/Scripts folder
